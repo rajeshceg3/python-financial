@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels==0.14.6
